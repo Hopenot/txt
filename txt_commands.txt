@@ -51,4 +51,4 @@ Commit changes внизу файла
 Commit changes внизу файла
 
 Синхронизировать внешний и локальный репозиторий TXT
-Git fetch
+Git pull
